@@ -1,10 +1,22 @@
-use_frameworks!
+`pod bin init --bin-url=https://raw.githubusercontent.com/for-example-test/cocoapods-bin-example/master/bin.yml`
+
+#use_frameworks!
+
+install! 'cocoapods',
+generate_multiple_pod_projects: true,
+disable_input_output_paths: true,
+incremental_installation: true
+
+plugin 'cocoapods-bin'
+use_binaries!
+set_use_source_pods ['cocoapods_bin_issue_11_import_PodA']
 
 platform :ios, '8.0'
 
 target 'cocoapods-bin-issue-11-import_Example' do
   pod 'cocoapods-bin-issue-11-import', :path => '../'
-
+  pod 'cocoapods_bin_issue_11_import_PodA'
+  pod 'cocoapods_bin_issue_11_import_PodB'
   target 'cocoapods-bin-issue-11-import_Tests' do
     inherit! :search_paths
 

@@ -1,0 +1,20 @@
+cocoapods-bin-issue-11-import:
+  LABEL: cocoapods-bin-issue-11-import
+  PROJECT_PATH: "/Users/songruiwang/Work/TDF/cocoapods-bin-issue-11-import/Example/Pods/cocoapods-bin-issue-11-import.xcodeproj"
+  UUID: 57442C533F9302DA08F0DC1BE187EB59
+cocoapods_bin_issue_11_import_PodA:
+  LABEL: cocoapods_bin_issue_11_import_PodA
+  PROJECT_PATH: "/Users/songruiwang/Work/TDF/cocoapods-bin-issue-11-import/Example/Pods/cocoapods_bin_issue_11_import_PodA.xcodeproj"
+  UUID: 83300C140475A13A98702DA0576AEFB0
+cocoapods_bin_issue_11_import_PodB:
+  LABEL: cocoapods_bin_issue_11_import_PodB
+  PROJECT_PATH: "/Users/songruiwang/Work/TDF/cocoapods-bin-issue-11-import/Example/Pods/cocoapods_bin_issue_11_import_PodB.xcodeproj"
+  UUID: 0F3FEDE87F8704F2FCFC9014EBF31DE4
+Pods-cocoapods-bin-issue-11-import_Example:
+  LABEL: Pods-cocoapods-bin-issue-11-import_Example
+  PROJECT_PATH: "/Users/songruiwang/Work/TDF/cocoapods-bin-issue-11-import/Example/Pods/Pods.xcodeproj"
+  UUID: CEE9B52EA7F9FF7608300233FF392C97
+Pods-cocoapods-bin-issue-11-import_Tests:
+  LABEL: Pods-cocoapods-bin-issue-11-import_Tests
+  PROJECT_PATH: "/Users/songruiwang/Work/TDF/cocoapods-bin-issue-11-import/Example/Pods/Pods.xcodeproj"
+  UUID: E574EEB80DE8CAE084D0DA2BA18DB17A

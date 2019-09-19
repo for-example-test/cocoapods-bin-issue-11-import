@@ -1,0 +1,6 @@
+framework module Pods_cocoapods_bin_issue_11_import_Example {
+  umbrella header "Pods-cocoapods-bin-issue-11-import_Example-umbrella.h"
+
+  export *
+  module * { export * }
+}

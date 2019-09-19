@@ -1,0 +1,36 @@
+BUILD_CONFIGURATIONS:
+  Debug: :debug
+  Release: :release
+CACHE_KEYS:
+  cocoapods-bin-issue-11-import:
+    BUILD_SETTINGS_CHECKSUM:
+      cocoapods-bin-issue-11-import: 4574e961058aab417c4bd77414cac036
+    CHECKSUM: d5c5f87e04a4e2b52ff71a2812411116c3f6d43e
+    FILES:
+      - "/Users/songruiwang/Work/TDF/cocoapods-bin-issue-11-import/cocoapods-bin-issue-11-import/Classes/cocoapods-bin-issue-11-import.h"
+      - "/Users/songruiwang/Work/TDF/cocoapods-bin-issue-11-import/cocoapods-bin-issue-11-import/Classes/cocoapods-bin-issue-11-import.m"
+      - "/Users/songruiwang/Work/TDF/cocoapods-bin-issue-11-import/LICENSE"
+      - "/Users/songruiwang/Work/TDF/cocoapods-bin-issue-11-import/README.md"
+    SPECS:
+      - cocoapods-bin-issue-11-import (0.1.0)
+  cocoapods_bin_issue_11_import_PodA:
+    BUILD_SETTINGS_CHECKSUM:
+      cocoapods_bin_issue_11_import_PodA: a69faaa52c08fd5942e658d53db2610b
+    CHECKSUM: 96e148af473209638d1f2d78a8ea4d697901e7f9
+    SPECS:
+      - cocoapods_bin_issue_11_import_PodA (0.1.0)
+  cocoapods_bin_issue_11_import_PodB:
+    BUILD_SETTINGS_CHECKSUM:
+      cocoapods_bin_issue_11_import_PodB: 9b23bbd04092ef36512a9986ffd7764e
+    CHECKSUM: de3b0ce5a7e84af7032d4fd124a43b24a7f844e3
+    SPECS:
+      - cocoapods_bin_issue_11_import_PodB (0.1.0)
+  Pods-cocoapods-bin-issue-11-import_Example:
+    BUILD_SETTINGS_CHECKSUM:
+      Debug: 70d272c57b42d0aefa6fbaf0de683fc7
+      Release: 70d272c57b42d0aefa6fbaf0de683fc7
+  Pods-cocoapods-bin-issue-11-import_Tests:
+    BUILD_SETTINGS_CHECKSUM:
+      Debug: b775b9f7467adf12c57883e1ded2c46d
+      Release: b775b9f7467adf12c57883e1ded2c46d
+OBJECT_VERSION: 46

@@ -1,0 +1,6 @@
+          framework module cocoapods_bin_issue_11_import_PodB {
+            umbrella header "cocoapods_bin_issue_11_import_PodB.h"
+
+            export *
+            module * { export * }
+          }

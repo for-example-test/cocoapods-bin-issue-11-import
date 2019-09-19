@@ -1,0 +1,1 @@
+../../../cocoapods_bin_issue_11_import_PodA/cocoapods_bin_issue_11_import_PodA/Classes/cocoapods_bin_issue_11_import_PodA.h

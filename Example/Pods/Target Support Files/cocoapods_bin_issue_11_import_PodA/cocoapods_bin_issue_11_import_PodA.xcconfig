@@ -1,0 +1,10 @@
+CONFIGURATION_BUILD_DIR = ${PODS_CONFIGURATION_BUILD_DIR}/cocoapods_bin_issue_11_import_PodA
+FRAMEWORK_SEARCH_PATHS = $(inherited) "${PODS_ROOT}/cocoapods_bin_issue_11_import_PodB"
+GCC_PREPROCESSOR_DEFINITIONS = $(inherited) COCOAPODS=1
+HEADER_SEARCH_PATHS = $(inherited) "${PODS_ROOT}/Headers/Private" "${PODS_ROOT}/Headers/Private/cocoapods_bin_issue_11_import_PodA" "${PODS_ROOT}/Headers/Public" "${PODS_ROOT}/Headers/Public/cocoapods_bin_issue_11_import_PodA"
+PODS_BUILD_DIR = ${BUILD_DIR}
+PODS_CONFIGURATION_BUILD_DIR = ${PODS_BUILD_DIR}/$(CONFIGURATION)$(EFFECTIVE_PLATFORM_NAME)
+PODS_ROOT = ${SRCROOT}
+PODS_TARGET_SRCROOT = ${PODS_ROOT}/cocoapods_bin_issue_11_import_PodA
+PRODUCT_BUNDLE_IDENTIFIER = org.cocoapods.${PRODUCT_NAME:rfc1034identifier}
+SKIP_INSTALL = YES

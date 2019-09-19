@@ -7,6 +7,7 @@
 //
 
 #import "TPCViewController.h"
+#import <cocoapods_bin_issue_11_import_PodA/cocoapods_bin_issue_11_import_PodA.h>
 
 @interface TPCViewController ()
 
