@@ -1,0 +1,13 @@
+use_frameworks!
+
+platform :ios, '8.0'
+
+target 'cocoapods-bin-issue-11-import_Example' do
+  pod 'cocoapods-bin-issue-11-import', :path => '../'
+
+  target 'cocoapods-bin-issue-11-import_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
