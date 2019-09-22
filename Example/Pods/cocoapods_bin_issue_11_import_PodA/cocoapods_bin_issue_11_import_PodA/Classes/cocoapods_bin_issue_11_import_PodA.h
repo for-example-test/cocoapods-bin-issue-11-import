@@ -6,7 +6,7 @@
 //
 
 #import <Foundation/Foundation.h>
-#import <cocoapods_bin_issue_11_import_PodA/cocoapods_bin_issue_11_import_PodA.h>
+#import <cocoapods_bin_issue_11_import_PodB/cocoapods_bin_issue_11_import_PodB.h>
 NS_ASSUME_NONNULL_BEGIN
 
 @interface cocoapods_bin_issue_11_import_PodA : NSObject

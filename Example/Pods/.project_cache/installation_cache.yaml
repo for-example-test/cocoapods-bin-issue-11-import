@@ -16,9 +16,9 @@ CACHE_KEYS:
   cocoapods_bin_issue_11_import_PodA:
     BUILD_SETTINGS_CHECKSUM:
       cocoapods_bin_issue_11_import_PodA: a69faaa52c08fd5942e658d53db2610b
-    CHECKSUM: 96e148af473209638d1f2d78a8ea4d697901e7f9
+    CHECKSUM: 0968d4a2407bcc91756cd4def7eaed331fec41e6
     SPECS:
-      - cocoapods_bin_issue_11_import_PodA (0.1.0)
+      - cocoapods_bin_issue_11_import_PodA (0.1.1)
   cocoapods_bin_issue_11_import_PodB:
     BUILD_SETTINGS_CHECKSUM:
       cocoapods_bin_issue_11_import_PodB: 9b23bbd04092ef36512a9986ffd7764e

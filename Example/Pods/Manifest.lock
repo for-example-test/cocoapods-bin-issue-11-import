@@ -1,6 +1,6 @@
 PODS:
   - cocoapods-bin-issue-11-import (0.1.0)
-  - cocoapods_bin_issue_11_import_PodA (0.1.0):
+  - cocoapods_bin_issue_11_import_PodA (0.1.1):
     - cocoapods_bin_issue_11_import_PodB
   - cocoapods_bin_issue_11_import_PodB (0.1.0)
 
@@ -21,7 +21,7 @@ EXTERNAL SOURCES:
 
 SPEC CHECKSUMS:
   cocoapods-bin-issue-11-import: d5c5f87e04a4e2b52ff71a2812411116c3f6d43e
-  cocoapods_bin_issue_11_import_PodA: 96e148af473209638d1f2d78a8ea4d697901e7f9
+  cocoapods_bin_issue_11_import_PodA: 0968d4a2407bcc91756cd4def7eaed331fec41e6
   cocoapods_bin_issue_11_import_PodB: de3b0ce5a7e84af7032d4fd124a43b24a7f844e3
 
 PODFILE CHECKSUM: 6cb33822effd40b76426457e420913318310bb72
